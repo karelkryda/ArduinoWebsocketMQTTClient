@@ -6,8 +6,8 @@ This repository unifies the code from several libraries and their forks on GitHu
 
 ## Dependencies
 
-- [WebSocketStreamClient](https://github.com/karelkryda/ArduinoWebsocketMQTTClient/tree/master/WebSocketStreamClient) - Forked from areve's [repository](https://github.com/areve/WebSocketStreamClient)
-- [ArduinoHttpClient](https://github.com/karelkryda/ArduinoWebsocketMQTTClient/tree/master/ArduinoHttpClient) - Forked from arduino-libraries's [repository](https://github.com/arduino-libraries/ArduinoHttpClient)
+- [WebSocketStreamClient](https://github.com/karelkryda/ArduinoWebsocketMQTTClient/tree/main/WebSocketStreamClient) - Forked from areve's [repository](https://github.com/areve/WebSocketStreamClient)
+- [ArduinoHttpClient](https://github.com/karelkryda/ArduinoWebsocketMQTTClient/tree/main/ArduinoHttpClient) - Forked from arduino-libraries's [repository](https://github.com/arduino-libraries/ArduinoHttpClient)
 - [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets)
 
 ## How to setup
@@ -21,4 +21,4 @@ This library contains everything needed to establish a connection to the MQTT bo
 
 ## Usage
 
-You can see how to set up a connection in the example file [here](https://github.com/karelkryda/ArduinoWebsocketMQTTClient/tree/master/examples/mqtt-ws-client.ino).
+You can see how to set up a connection in the example file [here](https://github.com/karelkryda/ArduinoWebsocketMQTTClient/tree/main/examples/mqtt-ws-client.ino).
