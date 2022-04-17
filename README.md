@@ -27,5 +27,7 @@ You can see how to set up a connection in the example file [here](https://github
 ## Credit
 
 [clysss](https://github.com/clysss) - Made edits to the WebSocketStreamClient library - in [this repository](https://github.com/clysss/WebSocketStreamClient)
+
 [emsi](https://github.com/emsi) - Added protocol support to WebSocketClient - in [this repository](https://github.com/emsi/ArduinoHttpClient)
+
 [emsi](https://github.com/emsi) - Set protocol to mqtt (required by mosquitto) - in [this repository](https://github.com/emsi/WebSocketStreamClient)
