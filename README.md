@@ -13,7 +13,7 @@ This repository unifies the code from several libraries and their forks on GitHu
 
 ## How to setup
 
-This library contains everything needed to establish a connection to the MQTT borker using a web socket. All you need to do is the following:
+This library contains everything needed to establish a connection to the MQTT broker using a web socket. All you need to do is the following:
  - Download the code from this repository
  - Copy the modified WebSocketStreamClient library from the corresponding folder to the `Your PC/Documents/Arduino/libraries` folder
  - Copy the modified ArduinoHttpClient library from the corresponding folder to the `Your PC/Documents/Arduino/libraries` folder
@@ -23,3 +23,9 @@ This library contains everything needed to establish a connection to the MQTT bo
 ## Usage
 
 You can see how to set up a connection in the example file [here](https://github.com/karelkryda/ArduinoWebsocketMQTTClient/tree/main/examples/mqtt-ws-client.ino).
+
+## Credit
+
+[clysss](https://github.com/clysss) - Made edits to the WebSocketStreamClient library - in [this repository](https://github.com/clysss/WebSocketStreamClient)
+[emsi](https://github.com/emsi) - Added protocol support to WebSocketClient - in [this repository](https://github.com/emsi/ArduinoHttpClient)
+[emsi](https://github.com/emsi) - Set protocol to mqtt (required by mosquitto) - in [this repository](https://github.com/emsi/WebSocketStreamClient)
